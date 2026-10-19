@@ -1,0 +1,4 @@
+# Primary fires first. On the second shot, secondary is empty so it falls back to primary again.
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,3 @@
+# The result is SUCCESS if at least one store successfully fired.
+GT4500,0,0,1,0
+TORPEDO,ALL

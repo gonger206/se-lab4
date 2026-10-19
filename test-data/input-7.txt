@@ -1,0 +1,3 @@
+# The result is FAIL if neither store was able to fire.
+GT4500,0,0,0,0
+TORPEDO,ALL
