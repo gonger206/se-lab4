@@ -1,0 +1,4 @@
+# Tries to fire both. The third command (SINGLE) proves that both torpedoes were consumed.
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

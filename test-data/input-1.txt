@@ -1,0 +1,4 @@
+# Initially the primary store fires. Next would be the secondary, but since it's empty and the primary is also empty, it fails.
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
